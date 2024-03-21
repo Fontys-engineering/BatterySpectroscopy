@@ -7,8 +7,8 @@ This repository contains the report for the BeCreative 2023-24 Battery Spectrosc
 
 To install the Python dependencies for the impedance spectroscopy, run the following command:
 Windows:
-`py.exe -m pip install -r requirements.txt`\
-Linux / Unix based: `pip install -r requirements.txt`
+`py.exe -m pip install -r ./report/requirements.txt`\
+Linux / Unix based: `pip install -r ./report/deps.txt`
 
 As the data used for plotting in the notebook isn't included in this repository, the path to a local copy of the data needs to be given. This is done by creating a file `project_dir_path.txt` and adding the path to the local project directory in this file. This path needs to be appended with a '/' character. An example path is given below:
 
