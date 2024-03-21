@@ -12,7 +12,7 @@ Linux / Unix based: `pip install -r requirements.txt`
 
 As the data used for plotting in the notebook isn't included in this repository, the path to a local copy of the data needs to be given. This is done by creating a file `project_dir_path.txt` and adding the path to the local project directory in this file. This path needs to be appended with a '/' character. An example path is given below:
 
-`C:/Users/fercl/OneDrive - Office 365 Fontys/Be Creative 2023-2024 Battery Spectroscopy/`
+`C:/Users/<USER>/OneDrive - Office 365 Fontys/Be Creative 2023-2024 Battery Spectroscopy/`
 
 ## Pluto measurement setup
 ### How to run
